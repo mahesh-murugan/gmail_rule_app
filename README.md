@@ -56,4 +56,4 @@ when you run this command a development server will run on [http://127.0.0.1:500
 open this URL in the browser and configure the rules
 
 
-
+![gmail_rule](/gmail_rules.png)
