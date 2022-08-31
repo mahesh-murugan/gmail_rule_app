@@ -1,0 +1,18 @@
+[
+    {
+        "description": "test",
+        "predicates": "all",
+        "field": "email",
+        "predicate": "contains",
+        "value1": "Skill-Lync <arpitdave@skill-lync.com>",
+        "field2": "subject",
+        "predicate2": "contains",
+        "value2": "A Gift for you on his arrival!",
+        "field3": "date_received",
+        "predicate3": "less_than",
+        "value3": "2",
+        "move_message": "move_message",
+        "inbox": "inbox",
+        "action": "mark_as_read"
+    }
+]
