@@ -57,3 +57,7 @@ open this URL in the browser and configure the rules
 
 
 ![gmail_rule](/gmail_rules.png)
+
+Once you configure rules, submit the rules, if the rules match with existing email in the database.
+
+then matched rules will be added in rules.json file.
